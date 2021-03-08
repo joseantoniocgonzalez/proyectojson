@@ -1,0 +1,236 @@
+{
+  "meta": { "theme": "stackoverflow" },
+  "basics": {
+    "name": "Aidan Scannell",
+    "label": "PhD Candidate at Bristol Robotics Lab",
+    "picture": "../aidan_portrait.jpeg",
+    "email": "aidan.scannell@bristol.ac.uk",
+    "phone": "+44 787 558 3912",
+    "website": "https://aidanscannell.com",
+    "summary": "Whilst completing my degree I developed a keen interest in mathematics, programming and robotics and became fascinated by how they form a common connection between humans and the surrounding world. I am now pursuing a PhD investigating methods for learning both data efficiently and safely onboard physical robotic systems. I am particularly interested in using probabilistic models for learning dynamics models and their integration into model-based reinforcement learning algorithms.",
+    "location": {
+      "address": "27 Beaumont Street",
+      "postalCode": "BS50TD",
+      "city": "Bristol",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "aidanscannell",
+        "url": "https://github.com/aidanscannell"
+      },
+      {
+        "network": "sourcerer",
+        "username": "sourcerer.io",
+        "url": "https://sourcerer.io/aidanscannell"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Bristol",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2018-09-30",
+      "endDate": "2020-06-01",
+      "summary": "Alongside my PhD studies I am a teaching assistant for the following courses:",
+      "highlights": [
+        "[Machine Learning COMS30007](https://bit.ly/2C6UbKp)",
+        "[Robotic Systems COMSM0012](https://bit.ly/2LV7rpZ)",
+        "[Intelligent Software Systems EMATM0042](https://bit.ly/2Rn2mwx)"
+      ]
+    },
+    {
+      "company": "Bristol Robotics Laboratory - University of Bristol",
+      "position": "PhD Researcher",
+      "website": "",
+      "startDate": "2017-09-20",
+      "endDate": "2021-10-01",
+        "summary":  "My research is focused on data-efficient learning for control of robotic systems (currently Micro Air Vehicles MAVs). I am particularly interested in probabilistic modelling, Gaussian processes, variational inference, model-based reinforcement learning and methods for encoding expert domain knowledge into such models. EPSRC Centre for Doctoral Training in Future Autonomous and Robotic Systems (FARSCOPE).",
+      "highlights": [
+        "Model-based reinforcement learning",
+        "Probabilistic Modelling",
+        "Gaussian processes",
+        "Variational inference",
+        "Robust control"
+      ]
+    },
+    {
+      "company": "Mott MacDonald",
+      "position": "Mechanical Engineering Intern",
+      "website": "",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "I worked in the building services division at Mott MacDonald where I developed teamwork skills and learned the importance of knowledge management within a team. This placement was a key factor in my decison to change career trajectory as an engineer.",
+      "highlights": [
+        "Overcame logistical issues and improved a system’s efficiency, resulting in the design’s approval.",
+        "Consistently met deadlines whilst working under pressure.",
+        "Mott MacDonald offered me future employment following my summer placement."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Bristol",
+      "area": "Robotics and Autonomous Systems",
+      "studyType": "MRes",
+      "startDate": "2017-01-01",
+      "gpa": "73%",
+      "summary": "Extending BDI Agents to Model and Reason with Uncertainty (77%) - https://github.com/aidanscannell/uncertain-agentspeak",
+      "courses": [
+        "Amazon Picking Challenge - 64%",
+        "Artificial Intelligence with Logic Programming - 73%",
+        "Bio-Inspired Artificial Intelligence - 91%",
+        "Master's Dissertation - 77%",
+        "Machine Learning - 78%",
+        "Robotic Fundamentals - 80%",
+        "Robotics Research Preperation - 69%",
+        "Technology and Context of Robotics and Autonomous Systems - 67%",
+        "Uncertainty Modelling for Intelligent Systems - 68%"
+      ],
+      "endDate": "2018-01-01"
+    },
+    {
+      "institution": "University of Bristol",
+      "area": "Mechanical Engineering",
+      "studyType": "MEng",
+      "startDate": "2012-01-01",
+      "gpa": "73%",
+      "summary": "Graduated in the top 10% of cohort.",
+      "courses": [
+        "Robotic Systems - 87%",
+        "Generic Propulsion - 76%",
+        "Nonlinear Structural Dynamics - 75%",
+        "Acoustics - Fundamentals and Applications - 84%",
+        "Ultrasonic Non-Destructive Testing - 77%",
+        "Systems and Control Engineering 4 - 72%",
+        "Non-Linear Behaviour of Materials - 57%",
+        "Virtual Product Development - 74%"
+      ],
+      "endDate": "2016-01-01"
+    },
+    {
+      "institution": "Ripon Grammar School",
+      "area": "",
+      "studyType": "A-Levels",
+      "startDate": "2005-01-01",
+      "summary": "Awarded the Mary Jones prize for mathematics.",
+      "courses": [
+        "Chemistry - A*",
+        "Mathematics - A*",
+        "Physics - A*",
+        "Design & Technology - A (AS Level)"
+      ],
+      "endDate": "2012-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "The Bristol PLUS Award",
+      "date": "2016-06-01",
+      "awarder": "University of Bristol",
+      "summary": "For undertaking a wide range of tasks to further enhance student skills - only 700 out of 23000 achieved this awards per annum."
+    },
+    {
+      "title": "The Duke of Edinburghs Award (Bronze/Silver/Gold)",
+      "date": "2012-08-01",
+      "awarder": "Ripon Grammar School",
+      "summary": "test"
+    },
+    {
+      "title": "Mary Jones prize for Mathematics",
+      "date": "2012-07-01",
+      "awarder": "Ripon Grammar School",
+      "summary": "tes"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "STEM Learning",
+      "position": "STEM Ambassador",
+      "website": "https://www.stem.org.uk/stem-ambassadors",
+      "startDate": "2018-09-30",
+      "endDate": "2020-01-13",
+      "summary": "I volunteer as a STEM ambassador, offering my time and enthusiasm through engagement with children both inside and outside of the classroom.",
+      "highlights": []
+    },
+    {
+      "organization": "Code Club",
+      "position": "Club Leader",
+      "website": "https://codeclub.org/en/",
+      "startDate": "2017-12-01",
+      "summary": "I collaborated with Code Club and Bristol Libraries to set up and run a Code Club for young people aged 9-13 at Junction 3 Library in Easton, Bristol.",
+      "highlights": [],
+      "endDate": "2018-04-01"
+    },
+    {
+      "organization": "Formula Student, University of Bristol",
+      "position": "Technical Lead (Drivetrain)",
+      "website": "https://www.beracing.co.uk/",
+      "startDate": "2015-09-01",
+      "summary": "Each year, as part of Formula Student, students design, build and race a single seat race car.",
+      "highlights": [
+        "Finished 2nd in the National Class 2 competition in 2013/2014, I was then selected as the Drivetrain lead.",
+        "This role improved my communication skills as I was leading weekly presentations.",
+        "I developed my leadership skills through setting realistic objectives, effectively allocating work to the appropriate team members and monitoring outcomes."
+      ],
+      "endDate": "2016-08-20"
+    },
+    {
+      "organization": "Snowsports Club, University of Bristol",
+      "position": "Snowboard Captain",
+      "website": "http://www.ubsc.co.uk/",
+      "startDate": "2014-09-01",
+      "summary": "I organised multiple weekly training sessions, demonstrating my ability to plan and run events smoothly. I negotiated competitive prices for a growing member base within an inherently expensive sport. We were awarded the ‘Team of the Year’ award and I received full colours for my performances and contributions to the sport.",
+      "highlights": [
+        "I negotiated competitive prices for a growing member base within an inherently expensive sport.",
+        "Responsible for aiding the smooth running of the club and helping to organise the annual university ski trip, with circa 1500 participants, working under pressure to manage people in high stress situations.",
+        "Awarded the ‘Team of the Year’ award and full colours for my performances and contributions to the sport."
+      ],
+      "endDate": "2015-08-20"
+    },
+    {
+      "organization": "Help the Aged",
+      "position": "Shop Assistant",
+      "website": "https://www.ageuk.org.uk/",
+      "startDate": "2009-09-01",
+      "summary": "Helping in the shop was rewarding and I developed my sales skills and an understanding of customer service.",
+      "highlights": [],
+      "endDate": "2011-08-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": ["Python", "numpy", "Tensorflow", "GPflow", "GPy"]
+    },
+    {
+      "name": "Robotics",
+      "level": "",
+      "keywords": ["Java", "C++", "ROS", "OpenCV"]
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": ["MATLAB", "Simulink", "Autodesk Inventor", "SolidWorks", "MSC Patran"]
+    },
+    {
+      "name": "Project",
+      "level": "",
+        "keywords": ["GitHub", "Overleaf/LaTeX", "Org-mode"]
+    },
+    {
+      "name": "Web",
+      "level": "",
+      "keywords": ["HTML", "CSS", "JavaScript", "PHP", "SQL"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": ["Node", "React"]
+    }
+  ]
+}
